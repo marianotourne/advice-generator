@@ -13,6 +13,9 @@ export default {
       boxShadow: {
         "neon-green": "0 0 30px hsl(150, 100%, 66%, 0.3)",
       },
+      fontSize: {
+        xxs: "0.625rem",
+      },
     },
     fontFamily: {
       sans: ["ui-sans-serif", "system-ui"],
